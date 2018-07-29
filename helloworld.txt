@@ -1,2 +1,3 @@
 xin chao VN ! minh la Nhat day.
 commit:lưu lại trạng thái index
+pull:Lấy nội dung của remote repository
