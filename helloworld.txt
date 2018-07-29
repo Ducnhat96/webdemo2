@@ -1,1 +1,2 @@
 xin chao VN ! minh la Nhat day.
+commit:lưu lại trạng thái index
